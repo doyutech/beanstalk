@@ -21,7 +21,7 @@
         "php": ">=7.4",
         "hyperf/async-queue": "^2.1",
         "hyperf/di": "^2.1",
-        "hyperf/framework": "~2.1.0",
+        "hyperf/framework": "~2.1",
         "hyperf/pool": "^2.1"
     },
     "require-dev": {
