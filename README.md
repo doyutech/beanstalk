@@ -4,15 +4,6 @@
 
 > composer 安装
 ```
-接入项目配置：composer.json
-    "repositories": [
-        "beanstalk": {
-            "type": "vcs",
-            "url": "https://gitlab.chongshengteng.cn/kris/douyu-beanstalk.git"
-        }
-    ]
-```
-```
 cmd：composer require douyu/beanstalk:v1.0.0
 ```
 
